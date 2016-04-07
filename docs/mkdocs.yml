@@ -1,0 +1,6 @@
+site_name: 'Cork oak data analysis manual'
+site_favicon: 'assets/Icon.png'
+pages:
+    - 'Introduction': 'index.md'
+    - 'Start data': 'starting.md'
+    - 'Required software': 'dependencies.md'
