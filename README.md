@@ -7,6 +7,7 @@ Every dir contains a *.keep* file to make the structure evident when using git, 
 
 ## Documentation
 [![Documentation Status](https://readthedocs.org/projects/gbs-data-analysis/badge/?version=latest)](http://gbs-data-analysis.readthedocs.org/en/latest/?badge=latest)
+
 Full docuentation can be found on [ReadTheDocs](http://gbs-data-analysis.readthedocs.org/).
 
 ## License
