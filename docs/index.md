@@ -1,4 +1,4 @@
-# NCBI Mass Sequence Downloader
+# GBS data analysis repository
 
 ## Description
 This repository contains a way to reproduce the analyses for the paper I am currently working on.
